@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class RadioGrupoA implements RadioInterface {
     private boolean estado;
     private int volumen;
